@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Wings",
+    "description": "Spicy grilled chicken wings",
+    "category": "Food",
+    "price": 50,
+    "quantity": 100
+  },
+  {
+    "id": 2,
+    "name": "Coffee",
+    "description": "Freshly brewed coffee",
+    "category": "Beverage",
+    "price": 20,
+    "quantity": 50
+  }
+]
